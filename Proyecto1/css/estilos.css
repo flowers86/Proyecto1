@@ -5,4 +5,13 @@ body
     font-family:"Segoe UI"
  }
 
+ #header
+ {
+     background: mediumorchid;
+     box-shadow: mediumvioletred;
+     margin: auto;
+     font-weight: bold;
+ }
+
+
     
